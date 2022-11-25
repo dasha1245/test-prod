@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:3000",
   "homepage": "http://dasha1245.github.io/test-prod",
   "name": "test-prod",
   "version": "0.1.0",
